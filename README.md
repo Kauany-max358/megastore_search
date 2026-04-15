@@ -28,8 +28,8 @@ O sistema deve retornar "test result: ok" para validar a funcionalidade.
 ## Arquitetura e Algoritmos
 A escolha do HashMap (Tabela Hash) foi estratégica para resolver o problema de latência.
 
-1 . Complexidade de Busca: O(1) no caso médio.
-2 . Eficiência: Ao indexar os produtos pelo nome, eliminamos a necessidade de percorrer toda a lista de itens, reduzindo drasticamente o uso de CPU durante as consultas.
+1. Complexidade de Busca: O(1) no caso médio.
+2. Eficiência: Ao indexar os produtos pelo nome, eliminamos a necessidade de percorrer toda a lista de itens, reduzindo drasticamente o uso de CPU durante as consultas.
 
 ## Estrutura do Repositório
 
